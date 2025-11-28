@@ -21,7 +21,9 @@ PHP, Laravel, Python, C++, SQL, Vue.js, WordPress, HTML, CSS, JS, XenForo, Googl
 [![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@taylon-mcfly)
 [![Telegram](https://img.icons8.com/color/48/telegram-app.png)](https://t.me/taylon_mcfly)
 [![Fiverr](https://img.icons8.com/color/48/fiverr.png)](https://www.fiverr.com/users/taylon_mcfly/)
-[![Upwork](https://img.icons8.com/?size=48&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~012fb0fd58d2053459)
+[![Upwork](https://img.icons8.com/?size=48&id=HKdmFbFm7xQV&format=png)](https://www.upwork.com/freelancers/~012fb0fd58d2053459)
+[![Upwork](https://img.icons8.com/?size=48&id=MR3dZdlA53te&format=png)](https://www.linkedin.com/in/taylon-mcfly/)
+
 
 ---
 
